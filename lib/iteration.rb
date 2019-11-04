@@ -32,6 +32,8 @@ def find_greater_pair(src)
     index += 1
   end
   
+  return larger_array
+  
 end
 
 def total_even_pairs(src)
