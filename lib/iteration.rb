@@ -43,3 +43,9 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
 end
+
+test_grid =[
+  [1,2],
+  [5,4]
+  ]
+puts test_grid
