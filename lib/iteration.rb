@@ -48,5 +48,4 @@ test_grid =[
   [1,2],
   [5,4]
   ]
-p test_grid
-p test_grid[0]
+puts find_greater_pair(test_grid)
