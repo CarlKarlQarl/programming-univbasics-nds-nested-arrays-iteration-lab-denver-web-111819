@@ -49,4 +49,4 @@ test_grid =[
   [5,4]
   ]
 puts test_grid
-puts test_grid[0]
+p test_grid[0]
