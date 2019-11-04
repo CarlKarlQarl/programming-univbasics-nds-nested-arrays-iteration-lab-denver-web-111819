@@ -48,5 +48,5 @@ test_grid =[
   [1,2],
   [5,4]
   ]
-puts test_grid
+p test_grid
 p test_grid[0]
